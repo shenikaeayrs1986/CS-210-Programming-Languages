@@ -1,0 +1,8 @@
+﻿  Groceries.cpp
+  Menu.cpp
+  Options.cpp
+C:\Users\sheni\source\repos\Corner Grocer 2\Corner Grocer 2\Options.cpp(14,22): warning C4018: '<': signed/unsigned mismatch
+  PythonCode.cpp
+C:\Users\sheni\source\repos\Corner Grocer 2\Corner Grocer 2\PythonCode.cpp(1,10): fatal error C1083: Cannot open include file: 'Python.h': No such file or directory
+  Source.cpp
+C:\Users\sheni\source\repos\Corner Grocer 2\Corner Grocer 2\Source.cpp(1,10): fatal error C1083: Cannot open include file: 'Python.h': No such file or directory
